@@ -13,7 +13,6 @@
 # limitations under the License.
 
 PRODUCT_COPY_FILES += \
-    vendor/samsung/espresso-common/proprietary/system/bin/dock_kbd_attach:system/bin/dock_kbd_attach \
     vendor/samsung/espresso-common/proprietary/system/bin/geomagneticd:system/bin/geomagneticd \
     vendor/samsung/espresso-common/proprietary/system/bin/orientationd:system/bin/orientationd \
     vendor/samsung/espresso-common/proprietary/system/bin/smc.ini:system/bin/smc.ini \
